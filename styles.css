@@ -128,7 +128,7 @@ input[type="submit"].eye-pleasing-input {
     color: #000;
     border: 2px solid #333;
     border-radius: 5px;
-    font-size: 18px;
+    font-size: 10px;
     padding: 10px;
 }
 
@@ -140,7 +140,7 @@ input[type="submit"].eye-pleasing-input:hover {
 
 textarea.eye-pleasing-input {
     height: 150px;
-    width: 350%;
+    width: 100%;
     resize: none;
 }
 
@@ -160,3 +160,6 @@ textarea.eye-pleasing-input {
     border: 2px solid #444;
     border-radius: 30px;
 }
+label {
+    font-size: 15px;
+  }
