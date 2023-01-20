@@ -1,6 +1,6 @@
-# Escape for a Cause
+# Charity Rush
 
-Escape for a Cause is a school project that simulates a charity escape room event. The goal of this project is to raise awareness and funds for a local charity through a series of challenging and fun escape rooms.
+Charity Rush is a school project that simulates a charity parkour event. The goal of this project is to raise awareness and funds for a local charity through a series of challenging and fun parkour.
 
 ## Getting Started
 
@@ -28,4 +28,4 @@ To install the project, follow these steps:
 ## Authors
 
 - MrGoblings - (https://github.com/Mrgoblings)
-- [DESI] - (https://github.com/[DESI])
+- Kalatcheva - (https://github.com/Kalatcheva)
